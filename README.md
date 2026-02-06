@@ -1,8 +1,8 @@
 ## Hi there 👋
-😄 Pronouns: she/her
-🦊 I'm proficient in Java, working towards rust and python.
-🌱 I’m currently learning: data structures and algorithms, minecraft modding.
-🎶 Ask me about music technology!
+😄 Pronouns: she/her  
+🦊 I'm proficient in Java, working towards rust and python.  
+🌱 I’m currently learning: data structures and algorithms, minecraft modding.  
+🎶 Ask me about music technology!  
 
 <!--
 **awilson-odu/awilson-odu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
